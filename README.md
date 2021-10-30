@@ -11,7 +11,7 @@ In the repository root are three files (in addition to this readme).
     The Realtionship between Cryptocurrency and Energy Prices.pptx      
         Powerpoint Presentation
 
-    The Realtionship between Cryptocurrency and Energy Prices.docx      
+    Investigating the Relationship between Cryptocurrency and Energy Prices.docx      
         Word document with the analysis report
 
 There are three additional folders.
